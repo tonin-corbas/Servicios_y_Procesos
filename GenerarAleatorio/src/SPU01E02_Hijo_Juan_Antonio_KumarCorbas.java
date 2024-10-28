@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class GenerarAleatorio {
+public class SPU01E02_Hijo_Juan_Antonio_KumarCorbas {
 
     public static void main(String[] args) {
         Random random = new Random();

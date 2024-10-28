@@ -7,15 +7,15 @@ import java.util.Scanner;
 public class SPU01E02_Juan_Antonio_KumarCorbas {
 
     public static void main(String[] args) {
-        ProcessBuilder pb = new ProcessBuilder("java", "-cp", "out/production/Servicios_y_Procesos", "GenerarAleatorio");
+        ProcessBuilder pb = new ProcessBuilder("java", "-cp", "out/production/Servicios_y_Procesos", "SPU01E02_Hijo_Juan_Antonio_KumarCorbas");
         try {
             Process process = pb.start();
             BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
             PrintWriter writer = new PrintWriter(process.getOutputStream(), true);
             Scanner scanner = new Scanner(System.in);
 
+            System.out.println("Haz intro para recibir un número aleatorio o escribe 'fin' para cerrar el programa:");
             while (true) {
-                System.out.println("Haz intro para recibir un número aleatorio o escribe 'fin' para cerrar el programa:");
                 String input = scanner.nextLine();
 
                 if ("fin".equalsIgnoreCase(input)) {
