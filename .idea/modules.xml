@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SPU01CP_Juan_Antonio_Kumar_Corbas/SPU01CP_Juan_Antonio_Kumar_Corbas.iml" filepath="$PROJECT_DIR$/SPU01CP_Juan_Antonio_Kumar_Corbas/SPU01CP_Juan_Antonio_Kumar_Corbas.iml" />
       <module fileurl="file://$PROJECT_DIR$/SPU01E01_Juan_Antonio_KumarCorbas/SPU01E01_Juan_Antonio_KumarCorbas.iml" filepath="$PROJECT_DIR$/SPU01E01_Juan_Antonio_KumarCorbas/SPU01E01_Juan_Antonio_KumarCorbas.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenerarAleatorio/SPU01E02_Hijo_Juan_Antonio_KumarCorbas.iml" filepath="$PROJECT_DIR$/GenerarAleatorio/SPU01E02_Hijo_Juan_Antonio_KumarCorbas.iml" />
       <module fileurl="file://$PROJECT_DIR$/SPU01E02_Juan_Antonio_KumarCorbas/SPU01E02_Juan_Antonio_KumarCorbas.iml" filepath="$PROJECT_DIR$/SPU01E02_Juan_Antonio_KumarCorbas/SPU01E02_Juan_Antonio_KumarCorbas.iml" />
