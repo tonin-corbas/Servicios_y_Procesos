@@ -1,0 +1,2 @@
+Para poder empezar el ejercicio he cogido como base la primera tarea y la he ido adaptando a lo que se necesita.
+De tal manra que el resultado ha quedado con 2 while, el proyecto al ser hecho en windows los comandos especificados han sido cambiados para que funcione de una manera similar que en linux/Mac
